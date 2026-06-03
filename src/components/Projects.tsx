@@ -21,7 +21,7 @@ const projects: Project[] = [
       "Affordability, Gambling Exposure, Transaction Risk & Document Integrity workflows",
       "Batch file processing with real-time report generation",
     ],
-    stack: ["Next.js", "Node.js", "TypeScript", "Claude AI", "Fastify", "Go"],
+    stack: ["Next.js", "Node.js", "TypeScript", "Claude AI", "Fastify"],
     // badge: "Personal Project",
     badgeColor: "violet",
     liveUrl: "https://complytica.vercel.app/workflows",

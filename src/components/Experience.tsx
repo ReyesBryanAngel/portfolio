@@ -10,7 +10,7 @@ const experiences = [
       "Led data migration from Laravel/PHP to Fastify/TypeScript, maintaining 1:1 output parity across large MySQL datasets.",
       "Performed schema mapping, query optimisation, and consistency validation between legacy and modern systems.",
     ],
-    stack: ["Cypress", "Node.js", "React", "Fastify", "Laravel", "Claude Code"],
+    stack: ["Cypress", "Node.js", "React", "Fastify", "Laravel", "Claude Code", "Python", "AWS"],
   },
   {
     company: "Yondu Inc.",
